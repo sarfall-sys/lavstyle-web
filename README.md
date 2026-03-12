@@ -11,8 +11,9 @@ This application allows users to explore a product catalog with advanced feature
 It also includes quality-of-life features like recently viewed products and an FAQ chatbot to assist users.
 
 ---
-## Demo
+## Live Demo:
 
+🎥 https://drive.google.com/file/d/1gG_XOplcbBvlIx397hjx7x7cJgVMlm05/view?usp=sharing
 ---
 ## ✨ Features
 
